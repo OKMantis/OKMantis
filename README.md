@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**OKMantis/OKMantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 💬 About
 
 I’m a Full-Stack Web Developer with a strong background in finance and business management. After over a decade in auditing and entrepreneurship, I transitioned into tech to build products that merge data, automation, and design into meaningful user experiences.
@@ -26,4 +23,4 @@ As Director of Digital Grafic Ibiza, S.L., I oversee the production and island-w
 I’m passionate about building useful, human-centered technology and connecting business insight with technical execution.
 
 Currently developing independent AI projects and open to remote opportunities with teams focused on innovation and real-world impact.
--->
+
