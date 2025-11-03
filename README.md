@@ -10,19 +10,24 @@ Today, I focus on **AI-driven web development**, combining hands-on experience i
 
 🧠 Key strengths
 
-- Full-Stack Expertise (Ruby on Rails, JavaScript, HTML, CSS)
+- **Full-Stack Expertise (Ruby on Rails, JavaScript, HTML, CSS)**
+
   Proficient in both front-end and back-end development, providing a holistic approach to project implementation.
 
-- Analytical Thinker with a Technical Edge
+- **Analytical Thinker with a Technical Edge**
+
   Combines a background in data analysis with hands-on web development and AI automation skills.
 
-- Process Optimizer & Problem Solver
+- **Process Optimizer & Problem Solver**
+  
   Experienced in identifying inefficiencies and designing digital solutions that save time and improve performance.
 
-- Adaptable Communicator
+- **Adaptable Communicator**
+  
   Skilled at translating complex technical into clear, insights for diverse teams and clients.
 
-- Entrepreneurial Leader
+- **Entrepreneurial Leader**
+
   Successfully directed a media company through digital transformation.
 
 I’m passionate about helping companies work smarter by turning real-world challenges into simple, effective digital solutions.
