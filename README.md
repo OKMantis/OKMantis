@@ -1,33 +1,41 @@
+# Hi, I'm Owen
 
-<img width="1640" height="924" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/d2b5c2f6-bb01-439e-8d66-4b199794e94f" />
+Rails developer based in Ibiza, Spain. I've been building web applications since 2018, starting with small client sites and working up to production platforms. Since mid-2025 I've been the sole engineer on [IBICASA.com](https://ibicasa.com), a real estate marketplace serving agencies across Ibiza and Formentera.
 
+Before software, I spent five years as a financial auditor at PwC. That background still shapes how I think about data integrity, edge cases, and understanding what a business actually needs.
 
-# 💫 About Me:
-Hi, I’m Owen — a full-stack web developer with a background in finance and business management.<br><br>
+I'm currently looking for a Rails role on a collaborative team where I can grow properly as an engineer.
 
-While running my own marketing company, I built IBICASA.com, a real-estate and service platform that automated and modernized our entire operation. My passion for software development was sparked when I saw how much technology could simplify processes and empower people. This led me to complete Le Wagon’s AI Software Development Bootcamp.<br><br>
+---
 
-Today, I focus on AI-driven web development, combining hands-on experience in Ruby on Rails and OpenAI with over a decade of business and management insight.<br><br>
+## What I work with
 
-🧠 **Key strengths**
+- **Ruby on Rails** - my primary stack
+- **PostgreSQL, Redis, Sidekiq** - background jobs and data
+- **Hotwire / Turbo / Stimulus** - frontend without the complexity
+- **RSpec** - still building confidence here, but writing tests
+- **OpenAI API** - integrated into True Trek for AI-powered features
+- **Heroku, AWS S3, Active Storage** - deployment and file handling
 
-- **Full-Stack Expertise** — Proficient in Ruby on Rails, JavaScript, HTML & CSS with strong front-end and back-end capabilities for end-to-end project delivery
-- **Analytical Thinker with a Technical Edge** — Blends deep data analysis experience with modern web development and AI automation skills
-- **Process Optimizer & Problem Solver** — Proven ability to identify inefficiencies and create digital solutions that save time and boost performance
-- **Adaptable Communicator** — Excellent at translating complex technical concepts into clear, actionable insights for teams, stakeholders and clients
-- **Entrepreneurial Leader** — Successfully led a marketing/media company through full digital transformation
+---
 
-I’m passionate about helping companies work smarter by turning real-world challenges into simple, effective digital solutions. If that sounds like something you’re looking for, I’d love to connect.
+## Projects
 
+**[True Trek](https://github.com/OKMantis/truetrek)** - AI travel platform built as a 2-week team project at Le Wagon (2025). Rails backend with OpenAI API integration, Sidekiq for async LLM processing, and skeleton loading states. Built collaboratively with a small team across product, design, and engineering.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okmoss) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/owenkmoss) 
+**IBICASA.com** *(private)* - Production real estate marketplace. Took over and rebuilt a legacy Rails codebase in 2025, fixed longstanding bugs, rebuilt the admin panel, and added self-serve property listings for external users. Multilingual (EN/ES/DE).
 
-# 💻 Tech Stack:
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OKMantis&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OKMantis&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OKMantis&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Ibiza Garden Houses** *(private)* - Rails site with a contact form wired to a Slack webhook and automated email confirmations via Action Mailer.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Background
+
+- Le Wagon AI Software Development Bootcamp, 2025
+- Le Wagon Full-Stack Bootcamp, 2018
+- Masters in Accountancy, Rijksuniversiteit Groningen
+- Dutch and US citizen, no visa sponsorship required
+
+---
+
+Feel free to reach out if you want to talk Rails or think we might be a good fit: owenkmoss@gmail.com
