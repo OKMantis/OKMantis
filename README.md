@@ -1,6 +1,6 @@
 # Hi, I'm Owen
 
-Rails developer based in Ibiza, Spain. I've been building web applications since 2018, starting with small client sites and working up to production platforms. Since mid-2025 I've been the sole engineer on [IBICASA.com](https://ibicasa.com), a real estate marketplace serving agencies across Ibiza and Formentera.
+Rails developer based in Spain. I've been building web applications since 2018, starting with small client sites and working up to production platforms. Since mid-2025 I've been the sole engineer on [IBICASA.com](https://ibicasa.com), a real estate marketplace serving agencies across Ibiza and Formentera.
 
 Before software, I spent five years as a financial auditor at PwC. That background still shapes how I think about data integrity, edge cases, and understanding what a business actually needs.
 
