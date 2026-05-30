@@ -23,6 +23,8 @@ I'm currently looking for a Rails role on a collaborative team where I can grow 
 
 **[True Trek](https://github.com/OKMantis/truetrek)** - AI travel platform built as a 2-week team project at Le Wagon (2025). Rails backend with OpenAI API integration, Sidekiq for async LLM processing, and skeleton loading states. Built collaboratively with a small team across product, design, and engineering.
 
+**[Regain Your Finance](https://github.com/OKMantis/regain_your_finance)** — [Live demo](https://regain-your-finance.onrender.com) — Personal finance dashboard for tracking income, expenses, and property finances. Built with Rails 8.1, Hotwire (Turbo Streams + Stimulus), and PostgreSQL. Features real-time spending log with in-place DOM updates, progress bars against weekly/monthly budgets, and a responsive PWA layout.
+
 **IBICASA.com** *(private)* - Production real estate marketplace. Took over and rebuilt a legacy Rails codebase in 2025, fixed longstanding bugs, rebuilt the admin panel, and added self-serve property listings for external users. Multilingual (EN/ES/DE).
 
 **Ibiza Garden Houses** *(private)* - Rails site with a contact form wired to a Slack webhook and automated email confirmations via Action Mailer.
