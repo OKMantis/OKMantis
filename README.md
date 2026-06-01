@@ -25,9 +25,9 @@ I'm currently looking for a Rails role on a collaborative team where I can grow 
 
 **[Regain Your Finance](https://github.com/OKMantis/regain_your_finance)** — [Live demo](https://regain-your-finance.onrender.com) — Personal finance dashboard for tracking income, expenses, and property finances. Built with Rails 8.1, Hotwire (Turbo Streams + Stimulus), and PostgreSQL. Features real-time spending log with in-place DOM updates, progress bars against weekly/monthly budgets, and a responsive PWA layout.
 
-**IBICASA.com** *(private repo)* - [Live demo](https://www.ibicasa.com/) - Production real estate marketplace. Took over and rebuilt a legacy Rails codebase in 2025, fixed longstanding bugs, rebuilt the admin panel, and added self-serve property listings for external users. Multilingual (EN/ES/DE).
+**IBICASA.com** *(private repo)* — [Live demo](https://www.ibicasa.com/) — Production real estate marketplace. Took over and rebuilt a legacy Rails codebase in 2025, fixed longstanding bugs, rebuilt the admin panel, and added self-serve property listings for external users. Multilingual (EN/ES/DE).
 
-**Ibiza Garden Houses** *(private repo)* [Live demo](https://www.ibizagardenhouses.com/) - Rails site with a contact form wired to a Slack webhook and automated email confirmations via Action Mailer.
+**Ibiza Garden Houses** *(private repo)* — [Live demo](https://www.ibizagardenhouses.com/) — Rails site with a contact form wired to a Slack webhook and automated email confirmations via Action Mailer.
 
 ---
 
